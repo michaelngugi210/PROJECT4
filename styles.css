@@ -120,7 +120,7 @@ a {
 .logo-mark {
   width: 120px;
   height: 80px;
-  border-radius: 18px;
+  border-radius: 15px;
   background: none;
   display: inline-flex;
   align-items: center;
@@ -965,4 +965,5 @@ a {
 .reveal.delay-3 {
   transition-delay: 240ms;
 }
+
 
